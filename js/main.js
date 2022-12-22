@@ -59,43 +59,43 @@ function validate() {
 var club = prompt("what is the winner of fifa world cup 2022 ?");
 
 switch (club) {
-    case "France":
+    case "france":
         alert("Loser in final Match and got the secound place in the world fifa cub 2022");
         break;
-    case "England":
+    case "england":
         alert("that country was eliminated in the round of 8");
         break;
-    case "Maracoo":
+    case "maracoo":
         alert("This country got the fourth place in the world cup 2022");
         break;
-    case "Dimateter":
+    case "dimateter":
         alert("That country was eliminated in the group stage");
         break;
-    case "Ecuador":
+    case "ecuador":
         alert("That country was eliminated in the group stage");
         break;
     case "senegal":
         alert("This country was eliminated in the round of 16");
         break;
-    case "Holland":
+    case "holland":
         alert("that country was eliminated in the round of 8");
         break;
-    case "Iran":
+    case "iran":
         alert("That country was eliminated in the group stage");
         break;
     case "united state":
         alert("This country was eliminated in the round of 16");
         break;
-    case "European supplement":
+    case "european supplement":
         alert("That country was eliminated in the group stage");
         break;
-    case "Argentina":
+    case "argentina":
         alert("Argentina is the winner of fifa world cup 2022");
         break;
-    case "Saudia arabia":
+    case "saudia arabia":
         alert("That country was eliminated in the group stage but (they win Argentina)");
         break;
-    case "Mexico":
+    case "mexico":
         alert("That country was eliminated in the group stage");
         break;
     case "poland":
@@ -104,25 +104,25 @@ switch (club) {
     case "First continental supplement":
         alert("This country was eliminated in the round of 16");
         break;
-    case "Denmark":
+    case "denmark":
         alert("That country was eliminated in the group stage");
         break;
-    case "Tunisia":
+    case "tunisia":
         alert("That country was eliminated in the group stage");
         break;
     case "spain":
         alert("This country was eliminated in the round of 16");
         break;
-    case "The secound continental supplement":
+    case "the secound continental supplement":
         alert("That country was eliminated in the group stage");
         break;
-    case "Garmany":
+    case "garmany":
         alert("That country was eliminated in the group stage");
         break;
     case "japan":
         alert("This country was eliminated in the round of 16");
         break;
-    case "Belgium":
+    case "belgium":
         alert("That country was eliminated in the group stage");
         break;
     case "canada":
@@ -131,7 +131,7 @@ switch (club) {
     case "croatia":
         alert("This country got the third place in the world cup 2022");
         break;
-    case "Brazil":
+    case "brazil":
         alert("that country was eliminated in the round of 8");
         break;
     case "serbia":
@@ -146,7 +146,7 @@ switch (club) {
     case "portugal":
         alert("that country was eliminated in the round of 8");
         break;
-    case "Ghana":
+    case "ghana":
         alert("That country was eliminated in the group stage");
         break;
     case "uruguay":
@@ -157,7 +157,7 @@ switch (club) {
         break;
 
     default:
-        alert("This country did not qualify for the fifa world cup 2022");
+        alert("Argentina is the winner of fifa world cup 2022");
 }
 
 // End  club section 
